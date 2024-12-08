@@ -1,0 +1,185 @@
+
+.about{
+    list-style-type:none;
+}
+.store{
+    list-style-type:none;
+}
+.gmail{
+    list-style-type:none;
+}
+.images{
+    list-style-type:none;
+}
+.uyglar{
+    list-style-type:none;
+}
+.appss{
+    display: inline-block;
+    height: 1.5%;
+    width: 1.5%;
+    
+}
+.girisbtn{
+        font-family: Arial;
+        font-size: 14px;
+        background-color: rgba(50, 86, 230, 0.81);
+        color: azure;
+        height: 30px;
+        width: 70px;
+        border: none;
+}
+.menu{
+    position: relative;
+}
+
+.signin{
+    list-style-type:none;
+}
+.menu li {
+    display: inline;
+    padding-left:2%;
+    outline: none;
+}
+.about{
+    margin:-3%;
+}
+.store{
+    margin-left: 2%;
+}
+.gmail{
+    margin-left: 72%;
+}
+.logo{
+    margin-top: 10%;
+    margin-left:35%; margin-right:auto;
+}
+.menu{
+    color: #5f6368;
+    font-family: Arial ;
+    font-size: 15px;
+    text-decoration: none; 
+   
+}
+
+.ara-mic{
+    display: flex;
+    justify-content: center; 
+    gap: 20px; 
+}
+.ara{
+    margin-left: -20%;
+}
+.container{
+    position: relative;
+    height: 100vh;
+    width: 100%;
+    
+}
+.box{
+    position: absolute;
+    top: 10%;
+    left: 39%;
+    transform: translate(-50%,-50%);
+    padding: 20px 10px;
+    height: 9%;
+    
+
+}
+.input-box{
+    display: flex;
+    width: 200%;
+    height: 50%;
+    border-width: 1.5px 1.5px 1.5px 1.5px;
+    border-style: solid;
+    border-color: darkgray;
+    border-radius: 15px;
+}
+.input-box input{
+ width: 100%;
+ font-size: 15px;
+ border: none;
+ outline: none;
+ padding: 1px 0px;
+}
+.imgara{
+    padding-top: 7px;
+    padding-left: 5px;
+}
+.imgmic{
+    padding-top: 3px;
+    padding-right: 7px;
+
+}
+.kutu {
+   margin-left: 37%;
+   gap: 70px; 
+   margin-top: -42%;
+    
+}
+.gsearch{
+    display: inline-block;
+}
+.yazi{
+    display: inline-block; 
+}
+.gsearch button{
+    border: none;
+    height: 36px;
+    width: 160px;
+    border-radius: 6px;
+    font-size: 14px;
+    padding-top: 10px;
+     padding-bottom: 10px;
+    color: #5f6368;
+    
+    
+    
+}
+.yazi button{
+    border: none;
+    height: 36px;
+    width: 150px;
+    border-radius: 6px;
+    font-size: 14px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: #5f6368;
+
+
+}
+.foot ul{
+    list-style-type: none;
+}
+.foot li{
+    display: inline;
+    color: #5f6368;
+    font-family: Arial ;
+    font-size: 15px;
+}
+.foot {
+   
+    background-color: #f2f2f2;
+    height: 200px;
+    width: 120%;
+    margin-top: 14%;
+    position: fixed;
+    
+    
+    
+}
+.adversiting{
+    margin-left: -2px;
+}
+.business{
+    margin-left: 50px;
+}
+.howsearch{
+    margin-left: 100px;
+}
+.terms{
+    margin-left: 800px;
+}
+.setting{
+    margin-left: 50px
+}
